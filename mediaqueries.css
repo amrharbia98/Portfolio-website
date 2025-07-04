@@ -116,4 +116,24 @@
     .text-container {
       text-align: justify;
     }
+    .about-pic {
+        width: 250px;
+        height: auto;
+        margin: 1rem auto;
+        display: block;
+        border-radius: 1.5rem;
+      }
+    
+      .about-details-container {
+        align-items: center;
+      }
+    
+      .section__text {
+        text-align: center;
+        padding: 0 1rem;
+      }
+    
+      .details-container {
+        padding: 1rem;
+      }
   }
